@@ -6,7 +6,7 @@
 
 Мы, специалисты IT-индустрии, возмущены жестокими приговорами и уголовным преследованием, в процессе которого не раз были нарушены права человека, и выражаем солидарность со всеми участниками процесса, требуем пересмотра приговора, а также призываем всех поддерживать фигурантов дела «Сети». 
 
-Если вы не ассоциируете себя с IT индустрией, мы предлагаем вам подписать одно из уже существующих открытых писем: [студентов](https://doxajournal.ru/support_networkcase), [психологов](https://docs.google.com/forms/d/e/1FAIpQLSfS7j5wJEcY3uggSpL4yp9YHuYKyVTrZLP_WBbnyytx5O9z-A/viewform), [общественных наблюдателей](https://www.facebook.com/story.php?story_fbid=2670390803075933&id=100003151178607), [российских ученых](https://pedagog-prof.org/novosti/privlech-vinovnykh-v-primenenii-pytok-zayavlenie-profsoyuza-uchitel-po-delu-seti) и [других сообществ](https://rupression.com/2020/02/15/we-are-network/).
+Если вы не ассоциируете себя с IT индустрией, мы предлагаем вам подписать одно из уже существующих открытых писем: [студентов](https://doxajournal.ru/support_networkcase), [психологов](https://docs.google.com/forms/d/e/1FAIpQLSfS7j5wJEcY3uggSpL4yp9YHuYKyVTrZLP_WBbnyytx5O9z-A/viewform), [общественных наблюдателей](https://www.facebook.com/story.php?story_fbid=2670390803075933&id=100003151178607), [учителей](https://pedagog-prof.org/novosti/privlech-vinovnykh-v-primenenii-pytok-zayavlenie-profsoyuza-uchitel-po-delu-seti), [российских ученых](http://scientific.ru/zayavlenie-po-delu-seti/) и [других сообществ](https://rupression.com/2020/02/15/we-are-network/).
 
 Кроме этого, призываем поддерживать фигурантов другими способами, такими как: 
 * [письма](http://rosuznik.org/arrests)
